@@ -15,7 +15,7 @@ const Footer = () => {
                 <span className='text-white text-lg'>💰</span>
               </div>
               <h2 className='text-xl font-bold bg-gradient-to-r from-emerald-600 via-green-500 to-teal-500 bg-clip-text text-transparent'>
-                ExpenseTracker AI
+                Spend Sync AI
               </h2>
             </div>
             <p className='text-gray-600 dark:text-gray-400 leading-relaxed max-w-sm'>
@@ -98,7 +98,7 @@ const Footer = () => {
           <div className='flex items-center gap-4'>
             <div className='inline-flex items-center gap-2 bg-emerald-50 dark:bg-emerald-900/30 text-emerald-700 dark:text-emerald-300 px-3 py-1 rounded-full text-xs font-medium'>
               <span className='w-1.5 h-1.5 bg-emerald-500 dark:bg-emerald-400 rounded-full animate-pulse'></span>
-              Made by Sahand
+              Made by Sarim Ali
             </div>
           </div>
         </div>
